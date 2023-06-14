@@ -1,0 +1,26 @@
+/* CSS Document */
+
+#homeJumbotron {
+	background-image: url("../images/image (5).jpg");
+	background-position: center;
+	background-size: cover;
+	color: white;
+}
+
+.card img {
+	width:100%;
+	height: 20em;
+}
+
+.carousel-item img {
+	width:100%;
+	height:35em;
+}
+
+#leisure {
+	background-image: url("../images/image (8).jpg");
+	background-position: center;
+	background-size: cover;
+	color: white;
+	font-weight: bold;
+}
